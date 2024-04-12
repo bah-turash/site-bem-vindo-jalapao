@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.nav-top{
+    background-color: rgb(196, 173, 99) !important;
+}
+.nav-link{
+    color: white !important;
+}
