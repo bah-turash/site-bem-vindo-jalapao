@@ -7,3 +7,18 @@ body{
 .nav-link{
     color: white !important;
 }
+footer{
+    background-color: rgb(196, 173, 99) !important;
+    text-align: center !important;
+    color: white !important;
+    
+}
+.img-car{
+    max-height: 600px !important;    
+}
+.divisao{
+    background-color:rgb(196, 173, 99) !important;
+text-align: center !important;
+color: white !important;
+padding: 2em !important;
+}
